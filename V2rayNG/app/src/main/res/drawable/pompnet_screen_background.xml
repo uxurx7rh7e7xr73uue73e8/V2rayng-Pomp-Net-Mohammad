@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="135"
+                android:startColor="@color/pompnet_bg"
+                android:centerColor="@color/pompnet_bg_secondary"
+                android:endColor="#030305" />
+        </shape>
+    </item>
+
+    <item
+        android:left="150dp"
+        android:top="-100dp"
+        android:right="-100dp"
+        android:bottom="450dp">
+
+        <shape android:shape="oval">
+            <solid android:color="#258B35FF" />
+        </shape>
+
+    </item>
+
+    <item
+        android:left="-120dp"
+        android:top="250dp"
+        android:right="220dp"
+        android:bottom="20dp">
+
+        <shape android:shape="oval">
+            <solid android:color="#18168CFF" />
+        </shape>
+
+    </item>
+
+    <item
+        android:left="170dp"
+        android:top="500dp"
+        android:right="-100dp"
+        android:bottom="-100dp">
+
+        <shape android:shape="oval">
+            <solid android:color="#18FF3DBB" />
+        </shape>
+
+    </item>
+
+</layer-list>
