@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true">
+
+        <shape android:shape="rectangle">
+
+            <corners android:radius="18dp" />
+
+            <gradient
+                android:angle="0"
+                android:startColor="@color/pompnet_blue"
+                android:endColor="@color/pompnet_purple" />
+
+            <stroke
+                android:width="1dp"
+                android:color="@color/pompnet_pink" />
+
+        </shape>
+
+    </item>
+
+    <item>
+
+        <shape android:shape="rectangle">
+
+            <corners android:radius="18dp" />
+
+            <gradient
+                android:angle="0"
+                android:startColor="@color/pompnet_purple"
+                android:endColor="@color/pompnet_blue" />
+
+            <stroke
+                android:width="1dp"
+                android:color="#80683AFF" />
+
+        </shape>
+
+    </item>
+
+</selector>
