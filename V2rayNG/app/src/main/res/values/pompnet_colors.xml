@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="pompnet_bg">#050509</color>
+    <color name="pompnet_bg_secondary">#090612</color>
+
+    <color name="pompnet_purple">#8B35FF</color>
+    <color name="pompnet_blue">#168CFF</color>
+    <color name="pompnet_pink">#FF3DBB</color>
+
+    <color name="pompnet_text">#FFFFFF</color>
+    <color name="pompnet_text_secondary">#BDB7CC</color>
+
+    <color name="pompnet_glass">#181225</color>
+    <color name="pompnet_glass_2">#241735</color>
+    <color name="pompnet_border">#684A91</color>
+
+    <color name="pompnet_success">#37E6A5</color>
+    <color name="pompnet_error">#FF5577</color>
+
+</resources>
